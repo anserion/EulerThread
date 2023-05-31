@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EulerThread</string>
+    <string name="title_text">Расчет функции Эйлера в потоке</string>
+    <string name="edit_hint_text">Введите натуральное значение N</string>
+    <string name="edit_start_value">65537</string>
+    <string name="btn_start_text">Начать расчет</string>
+    <string name="btn_abort_text">Прервать расчет</string>
+    <string name="percent_label_text">Процент готовности:</string>
+    <string name="ready_percent_text">0</string>
+    <string name="answer_label_text">Ответ:</string>
+    <string name="answer_text">Не готово</string>
+    <string name="author_text">Работу выполнил студент Ионисян А.С.</string>
+</resources>
